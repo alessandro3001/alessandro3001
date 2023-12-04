@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I'm currently studying for a Web Engineer Master's Degree at the University of Oviedo
+- 🌱 I'm currently programming in JS/TS in several frameworks for building UI/UX
 <!--
 **alessandro3001/alessandro3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
